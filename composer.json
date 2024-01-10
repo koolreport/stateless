@@ -1,0 +1,11 @@
+{
+    "name": "koolreport/stateless",
+    "version":"1.0.0",
+    "description": "Assist creating stateless application",
+    "keywords": ["PHP","Serverless","Stateless"],
+    "homepage": "https://www.koolreport.com",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+    }
+}

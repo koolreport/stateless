@@ -2,7 +2,7 @@
 vendor
 .DS_Store
 # Other files and folders
-
+composer.lock
 # Executables
 *.exe
 *.zip

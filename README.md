@@ -13,5 +13,15 @@ The first of very first of making a stateless application is to make stateless s
 
 ## JWTSession
 
+```
+<?php
+
+$session = new koolreport\stateless\sessions\JWTSession(60*24,"secretKey");
+$session->setSessionHandler();
+
+//Your code is here
+
+```
+
 
 

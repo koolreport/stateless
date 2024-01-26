@@ -69,7 +69,7 @@ class JWTSession implements SessionHandlerInterface
         session_set_save_handler($this, true);
 
         if ($startSession) {
-            // ob_start();
+            ob_start();
             session_start();
         }
     }
